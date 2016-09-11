@@ -1,0 +1,27 @@
+{
+  "name": "isolve",
+  "version": "1.0.0",
+  "description": "isolve website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmmitra/isolve.git"
+  },
+  "keywords": [
+    "isolve"
+  ],
+  "author": "george mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmmitra/isolve/issues"
+  },
+  "homepage": "https://github.com/gmmitra/isolve",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
